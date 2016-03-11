@@ -10,3 +10,5 @@
 [Omega - flexible, scalable schedulers for large compute clusters](Omega - flexible, scalable schedulers for large compute clusters.pdf)
 
 [Large-scale cluster management at Google with Borg](Large-scale cluster management at Google with Borg.pdf)
+
+[Apache Hadoop YARN - Yet Another Resource Negotiator](Apache Hadoop YARN - Yet Another Resource Negotiator.pdf)
