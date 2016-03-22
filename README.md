@@ -12,3 +12,5 @@
 [Large-scale cluster management at Google with Borg](Large-scale cluster management at Google with Borg.pdf)
 
 [Apache Hadoop YARN - Yet Another Resource Negotiator](Apache Hadoop YARN - Yet Another Resource Negotiator.pdf)
+
+[Dominant Resource Fairness - Fair Allocation of Multiple Resource Types.pdf](Dominant Resource Fairness - Fair Allocation of Multiple Resource Types.pdf)
