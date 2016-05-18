@@ -4,6 +4,10 @@
 
 [Resilient Distributed Datasets - A Fault-Tolerant Abstraction for In-Memory Cluster Computing](Resilient Distributed Datasets - A Fault-Tolerant Abstraction for In-Memory Cluster Computing.pdf)
 
+##Data stores
+
+[Druid - A Real-time Analytical Data Store](Druid - A Real-time Analytical Data Store.pdf)
+
 ##Cluster and resource management
 [Mesos - A Platform for Fine-Grained Resource Sharing in the Data Center](Mesos - A Platform for Fine-Grained Resource Sharing in the Data Center.pdf)
 
