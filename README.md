@@ -18,3 +18,9 @@
 [Apache Hadoop YARN - Yet Another Resource Negotiator](Apache Hadoop YARN - Yet Another Resource Negotiator.pdf)
 
 [Dominant Resource Fairness - Fair Allocation of Multiple Resource Types.pdf](Dominant Resource Fairness - Fair Allocation of Multiple Resource Types.pdf)
+
+## Algorithms
+
+[Paxos Made Simple - Leslie Lamport (2001)](Paxos Made Simple.pdf)
+
+[Impossibility of Distributed Consensus with One Faulty Process - Fischer, Lynch (1985)](Impossibility of Distributed Consensus with One Faulty Process.pdf)
